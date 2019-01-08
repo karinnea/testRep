@@ -6,3 +6,4 @@ plt.ylabel('some numbers')
 plt.show()
 plt.savefig("23.svg")
 
+%ghgh
